@@ -12,6 +12,7 @@ Please, consider this as a part of my résumé and nothing more.
 2. Run the query `CREATE DATABASE [CurriculumVitae]` or create a database named `CurriculumVitae` via SSMS
 3. Run `01_schema.sql` and then `02_data.sql` from the `scripts` folder
 4. Run `EXEC dbo.GetCV 1`
+
 or simply check out the following screenshots:
 
 <div align="center">
